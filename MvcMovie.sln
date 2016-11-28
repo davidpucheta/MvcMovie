@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcMovie", "MvcMovie\MvcMovie.csproj", "{C3AD1C2F-F472-46F0-B9BC-BDF59F1448B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcMovie.Tests", "MvcMovie.Tests\MvcMovie.Tests.csproj", "{9CB8B95C-5924-4739-879B-7F2ED7221C65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3AD1C2F-F472-46F0-B9BC-BDF59F1448B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3AD1C2F-F472-46F0-B9BC-BDF59F1448B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3AD1C2F-F472-46F0-B9BC-BDF59F1448B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3AD1C2F-F472-46F0-B9BC-BDF59F1448B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CB8B95C-5924-4739-879B-7F2ED7221C65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB8B95C-5924-4739-879B-7F2ED7221C65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CB8B95C-5924-4739-879B-7F2ED7221C65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB8B95C-5924-4739-879B-7F2ED7221C65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
